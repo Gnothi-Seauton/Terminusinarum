@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 民主派議員及民陣緊急聯合聲明
+title: 民主派議員及民陣緊急聯合聲明（附金鐘宣言）
 
 categories: Archive
 
@@ -17,6 +17,7 @@ description: "2019.07.01 10:42PM 立法會內 民主派議員及民陣緊急聯�
 ---
 原文来自「民陣」
 ~~[民主派議員及民陣緊急聯合聲明](https://www.facebook.com/CivilHumanRightsFront/photos/a.517931904920872/2333177213396323/?type=3&theater)~~
+~~[金鐘宣言中英版](https://lihkg.com/thread/1273833/page/1)~~
 
 ---
 民主派議員及民陣緊急聯合聲明
@@ -80,3 +81,48 @@ Civil Human Rights Front
 鄺俊宇 譚文豪 范國威 區諾軒
 
 2019 - 07 - 01 / 10:42PM
+
+##金鐘宣言 / 香港人民爭取其應有之普世價值及社會制度宣言
+
+Admiralty Declaration 
+
+1. 對於過去數日，以至近數年之港人抗爭運動，皆為香港人為爭取自己應有的權利，所作出之公民抗命活動，所有熱愛香港的人民將一直支持此等抗爭直到永遠
+
+Regarding the recent incidents of civil disobience, we the people who love Hong Kong shall support the movement till the end of time
+
+2. 謹代表香港人民宣誓，香港人民將永遠以追求本來應有之普世價值及社會制度為己任
+
+On behalf of all HKers, we shall never cease pursuing universal values and rule of law
+
+3. 對於行政，立法，司法機關等，香港人民已無法容忍，若不立即進行改革，人民必將舉起手中的武器及盾牌，推翻暴政，推翻議會
+
+HKers can no longer stand the injustice that is our government. We shall raise our shields and arms to overthrow the puppet Legislative Council and the Government
+
+
+4. 沒有民主選舉是一切問題之根源，必須馬上修改立法會議席及行政長官產生辦法，若非落實全民普選，誓不罷休
+
+The lack of a democratic election is the root of all evils. Unless universal suffrage and a just election system are in place, we shall never stand down.
+
+5. 各大政府組織內部腐敗不堪，要求相關領導人士立即道歉，下台
+
+Principal officials shall show accountability and step down.
+
+6. 要求政府立即釋放相關被捕示威者及政治犯，還他們一個清白
+
+Gov't must release all detainees and underwrite that they shall never pursue prosecution
+
+7. 政府必須承諾追究警隊以不當武力鎮壓示威者，警隊必須向全港市民致歉
+
+Gov't must investigate police brutality and apologize
+
+8. 於立法會提出議案，必須將近年運動定性為公民抗命民主運動，而非暴動
+
+The recent movements shall be known as democratic movements instead of riots.
+
+9. 無限感激所有為香港未來付出鮮血和生命的人民英雄，要求立法將6月9日定為香港法定紀念日
+
+6th of June shall forever go down in history and become an official holiday
+
+10. 毋忘香港血色六月
+
+We shall never forget June of 2019
