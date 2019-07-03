@@ -16,7 +16,7 @@ description: "我拉着儿子泉泉，和全秀姐一起被警察带着走进会
 
 ---
 
-原文来自「Facebook」李文足：~~[我终于见到了王全璋](https://www.facebook.com/permalink.php?story_fbid=625842274564904&id=100014174103159)~~
+原文来自「Facebook」李文足：[我终于见到了王全璋](https://www.facebook.com/permalink.php?story_fbid=625842274564904&id=100014174103159)
 
 ---
 我终于见到了王全璋
