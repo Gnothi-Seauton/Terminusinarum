@@ -16,7 +16,7 @@ description: "已經很難形容動筆寫這篇筆記的心情，就像難以一
 
 ---
 
-原文来自「Matters」張潔平：~~[香港反送中筆記：這不是又一場雨傘運動](https://matters.news/@az/香港反送中筆記-這不是又一場雨傘運動-zdpuAt4i3QGMtErPqxc8cBX9wLJ7xZ8M7zy4QUozxwGYJtzBu)~~
+原文来自「Matters」張潔平：[香港反送中筆記：這不是又一場雨傘運動](https://matters.news/@az/香港反送中筆記-這不是又一場雨傘運動-zdpuAt4i3QGMtErPqxc8cBX9wLJ7xZ8M7zy4QUozxwGYJtzBu)
 
 ---
 
