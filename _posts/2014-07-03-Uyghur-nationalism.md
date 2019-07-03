@@ -15,8 +15,8 @@ image_feature: ""
 description: "我的维吾尔“民族主义”是怎样形成的"
 
 ---
-原文来自「纽约时报中文网」
-~~[我的维吾尔“民族主义”是怎样形成的](https://mp.weixin.qq.com/s?__biz=MjM5MzI5OTMyMA%3D%3D&ascene=0&devicetype=iMac+MacBookAir6%2C2+OSX+OSX+10.12.3+build%2816D32%29&fontScale=100&idx=1&key=227c90f337be412ae166a3af02b209392b5e11bbbc09fbcd10fb3a8efacd56513c72c5da582e738fe5cd11f255020c51d393cb7a5edcbfaee525b9334c58b9b234fe973da23a7a4d2c9468d3c4f1024b&mid=200356571&mpshare=1&nettype=WIFI&pass_ticket=fL9RyXyF1%2B%2Bali%2F5ULpCa45j5Z3W7nLx05trgsjMyNfSZrsycOyqSYTzr32sGZBS&scene=1&sn=af3d6fdad1167dcda4fcee096993e0cc&srcid=05291f8HLExseM6195RIt3at&uin=MTI1ODY3MDk4MA%3D%3D&version=12020010)~~
+原文来自「纽约时报中文网」张哲
+[我的维吾尔“民族主义”是怎样形成的](https://cn.nytimes.com/china/20140703/cc03mystory/)
 
 ---
 
