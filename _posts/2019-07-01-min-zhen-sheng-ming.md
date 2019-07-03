@@ -16,8 +16,8 @@ description: "2019.07.01 10:42PM 立法會內 民主派議員及民陣緊急聯�
 
 ---
 原文来自「民陣」
-~~[民主派議員及民陣緊急聯合聲明](https://www.facebook.com/CivilHumanRightsFront/photos/a.517931904920872/2333177213396323/?type=3&theater)~~
-~~[金鐘宣言中英版](https://lihkg.com/thread/1273833/page/1)~~
+[民主派議員及民陣緊急聯合聲明](https://www.facebook.com/CivilHumanRightsFront/photos/a.517931904920872/2333177213396323/?type=3&theater)
+[金鐘宣言中英版](https://lihkg.com/thread/1273833/page/1)
 
 ---
 民主派議員及民陣緊急聯合聲明
