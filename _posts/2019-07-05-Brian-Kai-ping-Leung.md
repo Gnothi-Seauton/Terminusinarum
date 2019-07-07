@@ -12,7 +12,7 @@ tags: 香港
 
 image_feature: "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2019/07/05/171358e0-9e59-11e9-baa5-dd214ed0de8f_image_hires_155417.JPG"
 
-description: "Brian Leung speaks exclusively to the Post via Telegram to explain why he removed his mask and has no regrets. Leung volunteered to read out key demands of protesters in chamber, fearing that the events, clear demands needed to be put on the table"
+description: "Brian Leung speaks exclusively to the Post via Telegram to explain why he removed his mask and has no regrets."
 
 ---
 原文来自「南华早报SCMP」Alvin Lum   [‘It wasn’t violence for violence’s sake’: the only unmasked protester at storming of Hong Kong’s legislature gives his account of the day’s drama](https://www.scmp.com/news/hong-kong/politics/article/3017327/it-wasnt-violence-violences-sake-only-unmasked-protester)
