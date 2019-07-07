@@ -2,7 +2,7 @@
 
 layout: post
 
-title: ‘It wasn’t violence for violence’s sake’: the only unmasked protester at storming of Hong Kong’s legislature gives his account of the day’s drama
+title: ‘It wasn’t violence for violence’s sake’
 
 categories: Archive
 
@@ -18,6 +18,8 @@ description: "Brian Leung speaks exclusively to the Post via Telegram to explain
 原文来自「南华早报SCMP」Alvin Lum   [‘It wasn’t violence for violence’s sake’: the only unmasked protester at storming of Hong Kong’s legislature gives his account of the day’s drama](https://www.scmp.com/news/hong-kong/politics/article/3017327/it-wasnt-violence-violences-sake-only-unmasked-protester)
 
 ---
+**‘It wasn’t violence for violence’s sake’: the only unmasked protester at storming of Hong Kong’s legislature gives his account of the day’s drama**
+
 > Brian Leung speaks exclusively to the Post via Telegram to explain why he removed his mask and has no regrets
 
 > Leung volunteered to read out key demands of protesters in chamber, fearing that the events, clear demands needed to be put on the table
