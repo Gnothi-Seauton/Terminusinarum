@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 自我管理：危机及其可能性
+title: 自我管理——危机及其可能性
 
 categories: Archive
 
