@@ -2,7 +2,7 @@
 
 layout: post
 
-title:洪理达Betraying Big Brother翻译Chap.3拘留与释放
+title: 洪理达Betraying Big Brother翻译Chap.3拘留与释放
 
 categories: Archive
 
