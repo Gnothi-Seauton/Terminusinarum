@@ -2,7 +2,7 @@
 
 layout: post
 
-title:洪理达Betraying Big Brother翻译Chap.4你的身体就是战场
+title: 洪理达Betraying Big Brother翻译Chap.4你的身体就是战场
 
 categories: Archive
 
