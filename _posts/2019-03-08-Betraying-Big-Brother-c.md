@@ -2,7 +2,7 @@
 
 layout: post
 
-title:洪理达Betraying Big Brother翻译Chap.2互联网与女权主义的觉醒
+title: 洪理达Betraying Big Brother翻译Chap.2互联网与女权主义的觉醒
 
 categories: Archive
 
