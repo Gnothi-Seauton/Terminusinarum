@@ -2,7 +2,7 @@
 
 layout: post
 
-title:洪理达Betraying Big Brother翻译Chap.7中国的父权制威权主义
+title: 洪理达Betraying Big Brother翻译Chap.7中国的父权制威权主义
 
 categories: Archive
 
