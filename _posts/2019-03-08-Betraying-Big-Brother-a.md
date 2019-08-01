@@ -2,7 +2,7 @@
 
 layout: post
 
-title:洪理达Betraying Big Brother翻译Introduction
+title: 洪理达Betraying Big Brother翻译Introduction
 
 categories: Archive
 
