@@ -2,7 +2,7 @@
 
 layout: post
 
-title:洪理达Betraying Big Brother翻译Chap.1女权五姐妹
+title: 洪理达Betraying Big Brother翻译Chap.1女权五姐妹
 
 categories: Archive
 
