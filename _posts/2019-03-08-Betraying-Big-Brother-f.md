@@ -2,7 +2,7 @@
 
 layout: post
 
-title:洪理达Betraying Big Brother翻译Chap.5精卫填海
+title: 洪理达Betraying Big Brother翻译Chap.5精卫填海
 
 categories: Archive
 
