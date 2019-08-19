@@ -1,11 +1,19 @@
 ---
+
 layout: post
+
 title: 湖北十堰特大山洪：堰塞湖崩塌，13人遇难，回迁户住7年棚户房
+
 categories: Archive
+
 date: 2019-08-11
+
 tags: 十堰山洪
+
 image_feature: "https://i.loli.net/2019/08/12/FO3re4pa5QhPN2z.png"
+
 description: 8月6日凌晨3点半，湖北十堰市郧阳区柳陂镇青龙山村突发特大山洪， 据央视新闻发布的数据，截至山洪当日晚上22时，共有13人死亡，多人受伤。
+
 ---
 
 原文来自微信「捌零记」：~~[湖北十堰特大山洪：堰塞湖崩塌，13人遇难，回迁户住7年棚户房](https://mp.weixin.qq.com/s/xiJJi1HZ4TwY8ENBKBa1bw)~~
